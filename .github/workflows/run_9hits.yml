@@ -2,8 +2,8 @@ name: 9HITS
 on:
     # push:
     workflow_dispatch:
-    schedule:
-      - cron: '40 0 * * *'
+    # schedule:
+    #   - cron: '40 0 * * *'
     # schedule:
     #     - cron: '1/2 * * * *'
     # schedule:
