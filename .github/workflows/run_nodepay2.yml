@@ -2,9 +2,9 @@ name: NODEPAY2
 on:
     # push:
     workflow_dispatch:
-    schedule:
-    #   - cron: '*/15 * * * *'
-      - cron: '20 * * * *'
+    # schedule:
+    # #   - cron: '*/15 * * * *'
+    #   - cron: '20 * * * *'
     # schedule:
     #     - cron: '1/2 * * * *'
     # schedule:
